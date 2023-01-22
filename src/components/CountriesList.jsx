@@ -2,7 +2,6 @@ import CountryCard from "./CountryCard";
 
 
 export default function CountriesList({ countries }) {
-    
     return (
         countries.length > 0 ? (
             <div className="row row-cols-1 row-cols-md-4 g-4 justify-content-center">
