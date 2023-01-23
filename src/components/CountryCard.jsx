@@ -10,7 +10,7 @@ export default function CountryCard({ flag, name, population }) {
                     </div>
                     <div className="flip-card-back">
                         <h1>{name}</h1>
-                        <p>Population: {population}</p>
+                        <p>Population: {population.toLocaleString()}</p>
                     </div>
                 </div>
             </div>
