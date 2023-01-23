@@ -4,7 +4,7 @@ import { Provider } from 'react-redux'
 import './index.scss';
 import App from './App';
 import { store } from './state/store';
-import { fetchCountries } from './state/countriesSlice';
+import { fetchCountries } from './state/countriesReducer';
 
 store.dispatch(fetchCountries());
 
