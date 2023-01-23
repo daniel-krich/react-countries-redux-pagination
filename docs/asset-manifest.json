@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-countries-redux-pagination/static/css/main.b053224b.css",
+    "main.js": "/react-countries-redux-pagination/static/js/main.ff33266f.js",
+    "index.html": "/react-countries-redux-pagination/index.html",
+    "main.b053224b.css.map": "/react-countries-redux-pagination/static/css/main.b053224b.css.map",
+    "main.ff33266f.js.map": "/react-countries-redux-pagination/static/js/main.ff33266f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b053224b.css",
+    "static/js/main.ff33266f.js"
+  ]
+}
